@@ -1,0 +1,7 @@
+outputMsg="Your password is:  "
+
+value="Je5u59R@i^s"
+
+outputMsg2="Enter your password:  "
+
+print(value)
